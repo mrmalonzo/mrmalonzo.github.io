@@ -1,14 +1,26 @@
 body{
-	color: black
+	background-color: black
 }
 h1{
 	color: green;
+	margin: 100px;
 }
 p1{
 	color: violet;
+	
 }
-p2{}
-p3{}
-p4{}
-p5{}
-p6{}
+p2{
+	color: blue;
+}
+p3{
+	color: red;
+}
+p4{
+	color: yellow;
+}
+p5{
+	color: orange;
+}
+p6{
+	color: white;
+}
